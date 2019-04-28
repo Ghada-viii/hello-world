@@ -1,2 +1,4 @@
 # hello-world
-First repository containing different resources for cybersecurity 
+
+
+Hello, this is my first repository! I'm only following the GitHub guide (https://guides.github.com/activities/hello-world/). 
